@@ -1,0 +1,65 @@
+@page
+@model IslandsModel
+@{
+    ViewData["Title"] = "Island Mapper . .";
+    ViewData["_bitColumns"] = "";
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="~/css/islandStyle.css" />
+    </head>
+    <body>
+        <h2 id="output-header">Dynamic Grid Search ..</h2>
+        <div class="input-container">
+            <form id="postForm" method="post">
+                <input class="input-styling" type="number" id="inputColumns" min="1" name="inputColumns" placeholder="# of Columns .." />
+                <input class="input-styling" type="number" id="inputRows" min="1" name="inputRows" placeholder="# of Rows .." />
+                <input class="input-styling" type="submit" value="Submit" />
+            </form>
+        </div>
+        <script>
+            document.getElementById("postForm").addEventListener('submit', function(e) {
+                e.preventDefault();
+                console.log('Form submission prevented!');
+                
+                const form = e.target;
+                const formData = new FormData(form); // Automatically collect form data
+                console.log(formData);
+
+                fetch(form.action, {
+                    method: form.method, // Use the form's method (GET or POST)
+                    body: formData,       // Send the FormData object
+                    // You can add headers here if needed, e.g., for JSON:
+                    // headers: {
+                    //   'Content-Type': 'application/json'
+                    // },
+                })
+
+                gridSearch();
+                refreshEvents();
+            });
+        </script>
+        <br>
+        <div class="grid-container" id="myGrid-container">
+            <div class="dynamic-grid" itemid="myGrid" style="grid-template-columns: @ViewData["_bitColumns"];">
+                <div class="grid-styling">
+                    <img class="fish-icon" src="~/i0_clown_fish.png" />
+                </div>
+            </div>
+        </div>
+        <script>
+            const elements = document.getElementsByClassName("grid-styling");
+            for (let i = 0; i < elements.length; i++) {
+                elements[i].addEventListener('animationend', function(e) {
+                    elements[i].classList.remove('animated-a');
+                });
+                elements[i].addEventListener('mouseover', function(e) {
+                    elements[i].classList.add('animated-a');
+                });
+            }
+        </script>
+        <script src="~/js/islandScript.js"></script>
+    </body>
+</html>

@@ -1,0 +1,99 @@
+@page
+@model PracticingModel
+@{
+    ViewData["Title"] = "Practicing . .";
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>@ViewData["Title"] - Visual.myTitle</title>
+        <link rel="stylesheet" type="text/css" href="~/css/myStyle.css" />
+    </head>
+    <body>
+        <div>
+            <h1 style="float: left">Header 1,</h1>
+            <h2 style="float: left">Header 2,</h2>
+            <h3 style="float: left"Header 3,</h3>
+            <h4 style="float: left">Header 4,</h4>
+            <h5 style="float: left">Header 5,</h5>
+            <h6 style="float: left">Header 6,</h6>
+            <p style="float: left">Paragraph</p>
+        </div>
+        <div class="relative">Relative Positioning
+            <div class="absolute">Absolute Positioning</div>
+        </div>
+        <!-- start of: submit w/o reloading -->
+        <form id="my_form" method="post" action="#" onsubmit="processForm(); return false">
+            <input class="input-styling" type="text" name="symbol" placeholder="submit w/o reloading ..">
+            <input class="input-styling" type="submit" value="Submit">
+        </form>
+        <b>Symbol: </b><span id="sym_disp"></span>
+        <script>
+            const my_form = document.getElementById("my_form");
+            const sym_disp = document.getElementById("sym_disp");
+            // displaying the symbol entry
+            function processForm() { sym_disp.innerHTML = my_form.symbol.value; }
+        </script>
+        <!-- end of: submit w/o reloading -->
+        <a href="https://google.com">This is a link!</a>
+        <div class="customDiv">
+            <div class="grid-styling" id="griditem1">A</div>
+            <div class="grid-styling" id="griditem2">B</div>
+        </div>
+        <div class="container"></div>
+            <h1>Dynamic Table</h1>
+            <div>
+                <input class="input-styling" type="number" id="columns" min="1" placeholder="# of Columns ..">
+                <input class="input-styling" type="number" id="rows" min="1" placeholder="# of Rows ..">
+                <button class="input-styling" onclick="createTable()">Create Table</button>
+            </div>
+            <table id="myTable">
+                <!-- table will be dynamically generated here -->
+            </table>
+        </div>
+        <div class="welpme">
+            <h1>Input Testing</h1>
+            <form id="postForm" method="post">
+                <input class="input-styling" type="text" id="name" name="Name" placeholder="name .." />
+                <input class="input-styling" type="email" id="email" name="Email" placeholder="email .." />
+                <input class="input-styling" type="submit" value="Submit "/>
+            </form>
+        </div>
+        <script>
+            document.getElementById("postForm").addEventListener('submit', function(event) {
+                event.preventDefault();
+                console.log('Form submission prevented!');
+                
+                const form = event.target;
+                const formData = new FormData(form); // automatically collect form data
+                console.log(formData);
+
+                fetch(form.action, {
+                    method: form.method, // use the form's method (GET or POST)
+                    body: formData,       // send the FormData object
+                    // you can add headers here if needed, e.g., for JSON:
+                    // headers: {
+                    //   'Content-Type': 'application/json'
+                    // },
+                })
+                .then(response => {
+                    if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.text(); // or response.json() depending on the server response
+                })
+                .then(data => {
+                    console.log('Success:', data);
+                    // handle the server's response (e.g., update the UI)
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    // handle errors (e.g., display an error message)
+                });
+            });
+        </script>
+        <div id="responseDiv"></div>
+        <script src="~/js/myScript.js"></script>
+    </body>
+</html>
