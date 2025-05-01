@@ -97,6 +97,6 @@ C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed\9etxshln8s-jjsuc0puko.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed\bnn8ncnvd4-9vr69e8ynj.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed\q2z2ys134v-t4y7v3oeof.gz
-C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed\vj74aw2yf5-rq32peqwej.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed\x6k1r005x6-ztomate1mc.gz
-C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed\yt53roghcp-x85cq5b6nz.gz
+C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed\yt53roghcp-j4157j7nkv.gz
+C:\Users\Ivan_B\Documents\Coding\C#\Visual.myProject\obj\Debug\net9.0\compressed\vj74aw2yf5-e3uj46f61y.gz

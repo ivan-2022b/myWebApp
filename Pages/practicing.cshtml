@@ -2,6 +2,7 @@
 @model PracticingModel
 @{
     ViewData["Title"] = "Practicing . .";
+    var from_backend = ViewData["from_backend"];
 }
 
 <!DOCTYPE html>
@@ -36,7 +37,7 @@
             function processForm() { sym_disp.innerHTML = my_form.symbol.value; }
         </script>
         <!-- end of: submit w/o reloading -->
-        <a href="https://google.com">This is a link!</a>
+        <a style="float: right" href="https://google.com">Inconspicuous Link</a>
         <div class="customDiv">
             <div class="grid-styling" id="griditem1">A</div>
             <div class="grid-styling" id="griditem2">B</div>

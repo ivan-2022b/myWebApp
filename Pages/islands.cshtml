@@ -3,47 +3,73 @@
 @{
     ViewData["Title"] = "Island Mapper . .";
     ViewData["_bitColumns"] = "";
+    var directory = ViewData["workingDirectory"];
+    var cmdOutput = ViewData["cmdOutput"];
+    var cmdPa = ViewData["cmdPa"];
 }
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <link rel="stylesheet" type="text/css" href="~/css/islandStyle.css" />
     </head>
     <body>
+        <h5 style="float: right">Directory? <a style="text-decoration: underline">@directory</a></h5>
         <h2 id="output-header">Dynamic Grid Search ..</h2>
+        <div style="float: right">
+            <form id="try_xmysql" method="post">
+                <input id="that-element" class="button-styling" type="submit" value="Try XMySQL" />
+                <p id="this-element"> xmysql? @cmdOutput</p>
+            </form>
+        </div>
         <div class="input-container">
             <form id="postForm" method="post">
                 <input class="input-styling" type="number" id="inputColumns" min="1" name="inputColumns" placeholder="# of Columns .." />
                 <input class="input-styling" type="number" id="inputRows" min="1" name="inputRows" placeholder="# of Rows .." />
-                <input class="input-styling" type="submit" value="Submit" />
+                <input class="button-styling" type="submit" value="Submit" />
             </form>
         </div>
         <script>
-            document.getElementById("postForm").addEventListener('submit', function(e) {
-                e.preventDefault();
-                console.log('Form submission prevented!');
-                
+            document.getElementById("postForm").addEventListener('submit', function(e) { e.preventDefault();
+                console.log('form submission prevented!');
                 const form = e.target;
                 const formData = new FormData(form); // Automatically collect form data
-                console.log(formData);
-
+                formData.append('POST_Route', 'main');
+                console.log(Object.fromEntries(formData));
                 fetch(form.action, {
                     method: form.method, // Use the form's method (GET or POST)
-                    body: formData,       // Send the FormData object
-                    // You can add headers here if needed, e.g., for JSON:
+                    body: formData, // Send the FormData object
                     // headers: {
-                    //   'Content-Type': 'application/json'
+                    //    'Content-Type': 'application/json'
                     // },
                 })
-
                 gridSearch();
                 refreshEvents();
             });
+            var handleSubmit = function(e) { e.preventDefault();
+                const form = e.target;
+                const formData = new FormData(form); // Automatically collect form data
+                formData.append('POST_Route', 'xmysql');
+                console.log(form.action);
+                fetch(form.action, {
+                    method: form.method, // Use the form's method (GET or POST)
+                    body: formData, // Send the FormData object
+                    // headers: { // Add headers here if needed, e.g. for JSON:
+                    //    'Content-Type': 'application/json'
+                    // },
+                })
+                // .then(response => response.json())
+                // .then(data => console.log(data))
+                // .catch(error => console.error(error));
+                document.getElementById("that-element").value = "Connected";
+                e.target.removeEventListener('submit', handleSubmit);
+                e.target.addEventListener('submit', function(e) { e.preventDefault() });
+            }
+            document.getElementById("try_xmysql").addEventListener('submit', handleSubmit);
         </script>
         <br>
         <div class="grid-container" id="myGrid-container">
-            <div class="dynamic-grid" itemid="myGrid" style="grid-template-columns: @ViewData["_bitColumns"];">
+            <div class="dynamic-grid" itemid="myGrid" style="grid-template-columns: @ViewData["_bitColumns"]">
                 <div class="grid-styling">
                     <img class="fish-icon" src="~/i0_clown_fish.png" />
                 </div>

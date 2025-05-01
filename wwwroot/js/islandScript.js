@@ -1,45 +1,3 @@
-/*$('#postForm').submit(function (event) {
-@{Model.CSFunction();}
-@{Model.OnPost("", "");}
-event.preventDefault();
-return false;
-});*/
-
-/*<script type="text/javascript">
-$("#postForm").submit(function () {
-    var jqxhr = $.post('api/updates/complex', $('#postForm').serialize())
-        .success(function () {
-            var loc = jqxhr.getResponseHeader('Location');
-            var a = $('<a/>', { href: loc, text: loc });
-            $('#message').html(a);
-        })
-        .error(function () {
-            $('#message').html("Error posting the update.");
-        });
-    return false;
-});
-</script>*/
-
-/*document.getElementById("postForm").addEventListener("click", function(event) {
-    event.preventDefault;
-
-    const formData = new FormData(this);
-    console.log(formData.get('Name'));
-
-    fetch('Practicing.cshtml.cs', { // Replace with your server endpoint
-        method: 'POST',
-        body: formData
-    })
-    .then(response => response.text()) // or response.json() if you expect JSON
-    .then(data => {
-        document.getElementById('responseDiv').textContent = data; // Display the server's response
-    })
-    .catch(error => {
-        console.error('Error:', error);
-        document.getElementById('responseDiv').textContent = "An error occurred";
-    });
-});*/
-
 var myData = [];
 var bitArray = [];
 var bitColumns = 0;
@@ -153,9 +111,8 @@ function RecursiveIsland(index)
 }
 
 async function getData() {
-    const url = "http://localhost:3000/api/mytable/count";
     try {
-        const response = await fetch(url);
+        const response = await fetch('http://localhost:3000/api/mytable/count');
         if (!response.ok) {
             throw new Error(`Response status: ${response.status}`);
         }

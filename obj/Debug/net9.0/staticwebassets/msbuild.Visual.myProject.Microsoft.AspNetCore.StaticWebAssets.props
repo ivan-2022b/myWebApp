@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rq32peqwej</Fingerprint>
-      <Integrity>jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w=</Integrity>
+      <Fingerprint>e3uj46f61y</Fingerprint>
+      <Integrity>GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\islandStyle.css'))</OriginalItemSpec>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>x85cq5b6nz</Fingerprint>
-      <Integrity>kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk=</Integrity>
+      <Fingerprint>j4157j7nkv</Fingerprint>
+      <Integrity>81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\islandScript.js'))</OriginalItemSpec>

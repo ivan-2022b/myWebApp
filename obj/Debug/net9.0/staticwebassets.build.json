@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z2sFNDK5KygW45pGvCzwmLjG2BzbaeZdp4a9HDVxAmI=",
+  "Hash": "B4r8A5pjjA+roYcuAz0aosphmO8O79Y6yifHMa9V1DQ=",
   "Source": "Visual.myProject",
   "BasePath": "_content/Visual.myProject",
   "Mode": "Default",
@@ -1256,12 +1256,12 @@
       "OriginalItemSpec": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-rq32peqwej.gz",
+      "Identity": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-e3uj46f61y.gz",
       "SourceId": "Visual.myProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Visual.myProject",
-      "RelativePath": "css/islandStyle#[.{fingerprint=rq32peqwej}]?.css.gz",
+      "RelativePath": "css/islandStyle#[.{fingerprint=e3uj46f61y}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1270,8 +1270,8 @@
       "RelatedAsset": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\css\\islandStyle.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "b93ug2uqfp",
-      "Integrity": "AdwRYadHQ2G0qFBSGzXZi7zbDTcdZdok4smk2Sh6/os=",
+      "Fingerprint": "sghllwggtg",
+      "Integrity": "rABgnN429LhYY31UqDzQBftv1IcnaES5O1U4NJUtBlw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\css\\islandStyle.css"
@@ -1403,12 +1403,12 @@
       "OriginalItemSpec": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-x85cq5b6nz.gz",
+      "Identity": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-j4157j7nkv.gz",
       "SourceId": "Visual.myProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Visual.myProject",
-      "RelativePath": "js/islandScript#[.{fingerprint=x85cq5b6nz}]?.js.gz",
+      "RelativePath": "js/islandScript#[.{fingerprint=j4157j7nkv}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\js\\islandScript.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hlm7jjewg3",
-      "Integrity": "25LCQL7fzP/BQN1RPkttaIdUXG6+yLjM/VDAT+5x+Co=",
+      "Fingerprint": "1ejnv4m2vq",
+      "Integrity": "F087i0EzxE2gN8ZFegtbOCWe6zR5sGPIn/stON18CuE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\js\\islandScript.js"
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rq32peqwej",
-      "Integrity": "jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w=",
+      "Fingerprint": "e3uj46f61y",
+      "Integrity": "GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\islandStyle.css"
@@ -1606,8 +1606,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x85cq5b6nz",
-      "Integrity": "kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk=",
+      "Fingerprint": "j4157j7nkv",
+      "Integrity": "81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\islandScript.js"
@@ -2918,12 +2918,12 @@
   "Endpoints": [
     {
       "Route": "css/islandStyle.css",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-rq32peqwej.gz",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-e3uj46f61y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001639344262"
         }
       ],
       "ResponseHeaders": [
@@ -2933,15 +2933,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "609"
         },
         {
           "Name": "ETag",
-          "Value": "\"AdwRYadHQ2G0qFBSGzXZi7zbDTcdZdok4smk2Sh6/os=\""
+          "Value": "\"rABgnN429LhYY31UqDzQBftv1IcnaES5O1U4NJUtBlw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:35:00 GMT"
+          "Value": "Thu, 01 May 2025 02:19:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2961,13 +2961,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w=\""
+          "Value": "W/\"GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w="
+          "Value": "sha256-GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs="
         }
       ]
     },
@@ -2982,7 +2982,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1419"
+          "Value": "1677"
         },
         {
           "Name": "Content-Type",
@@ -2990,11 +2990,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w=\""
+          "Value": "\"GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:35:00 GMT"
+          "Value": "Thu, 01 May 2025 02:19:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3004,13 +3004,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w="
+          "Value": "sha256-GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs="
         }
       ]
     },
     {
       "Route": "css/islandStyle.css.gz",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-rq32peqwej.gz",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-e3uj46f61y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3019,7 +3019,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "609"
         },
         {
           "Name": "Content-Type",
@@ -3027,11 +3027,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AdwRYadHQ2G0qFBSGzXZi7zbDTcdZdok4smk2Sh6/os=\""
+          "Value": "\"rABgnN429LhYY31UqDzQBftv1IcnaES5O1U4NJUtBlw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:35:00 GMT"
+          "Value": "Thu, 01 May 2025 02:19:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3049,18 +3049,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AdwRYadHQ2G0qFBSGzXZi7zbDTcdZdok4smk2Sh6/os="
+          "Value": "sha256-rABgnN429LhYY31UqDzQBftv1IcnaES5O1U4NJUtBlw="
         }
       ]
     },
     {
-      "Route": "css/islandStyle.rq32peqwej.css",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-rq32peqwej.gz",
+      "Route": "css/islandStyle.e3uj46f61y.css",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-e3uj46f61y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001639344262"
         }
       ],
       "ResponseHeaders": [
@@ -3070,15 +3070,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "609"
         },
         {
           "Name": "ETag",
-          "Value": "\"AdwRYadHQ2G0qFBSGzXZi7zbDTcdZdok4smk2Sh6/os=\""
+          "Value": "\"rABgnN429LhYY31UqDzQBftv1IcnaES5O1U4NJUtBlw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:35:00 GMT"
+          "Value": "Thu, 01 May 2025 02:19:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3098,13 +3098,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w=\""
+          "Value": "W/\"GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rq32peqwej"
+          "Value": "e3uj46f61y"
         },
         {
           "Name": "label",
@@ -3112,12 +3112,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w="
+          "Value": "sha256-GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs="
         }
       ]
     },
     {
-      "Route": "css/islandStyle.rq32peqwej.css",
+      "Route": "css/islandStyle.e3uj46f61y.css",
       "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\css\\islandStyle.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3127,7 +3127,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1419"
+          "Value": "1677"
         },
         {
           "Name": "Content-Type",
@@ -3135,11 +3135,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w=\""
+          "Value": "\"GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:35:00 GMT"
+          "Value": "Thu, 01 May 2025 02:19:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3149,7 +3149,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rq32peqwej"
+          "Value": "e3uj46f61y"
         },
         {
           "Name": "label",
@@ -3157,13 +3157,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jS8fOKBBe2bj7RVz+8tH6/QZ6YDG7i3jyurzqmmOH/w="
+          "Value": "sha256-GuskjAWNJYl2q0KeW0E1WY8KAr9wD0afx8pAwWjJDQs="
         }
       ]
     },
     {
-      "Route": "css/islandStyle.rq32peqwej.css.gz",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-rq32peqwej.gz",
+      "Route": "css/islandStyle.e3uj46f61y.css.gz",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\vj74aw2yf5-e3uj46f61y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3172,7 +3172,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "609"
         },
         {
           "Name": "Content-Type",
@@ -3180,11 +3180,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AdwRYadHQ2G0qFBSGzXZi7zbDTcdZdok4smk2Sh6/os=\""
+          "Value": "\"rABgnN429LhYY31UqDzQBftv1IcnaES5O1U4NJUtBlw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:35:00 GMT"
+          "Value": "Thu, 01 May 2025 02:19:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3202,7 +3202,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rq32peqwej"
+          "Value": "e3uj46f61y"
         },
         {
           "Name": "label",
@@ -3210,7 +3210,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AdwRYadHQ2G0qFBSGzXZi7zbDTcdZdok4smk2Sh6/os="
+          "Value": "sha256-rABgnN429LhYY31UqDzQBftv1IcnaES5O1U4NJUtBlw="
         }
       ]
     },
@@ -4191,13 +4191,13 @@
       ]
     },
     {
-      "Route": "js/islandScript.js",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-x85cq5b6nz.gz",
+      "Route": "js/islandScript.j4157j7nkv.js",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-j4157j7nkv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000447427293"
+          "Quality": "0.000575043128"
         }
       ],
       "ResponseHeaders": [
@@ -4207,19 +4207,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2234"
+          "Value": "1738"
         },
         {
           "Name": "ETag",
-          "Value": "\"25LCQL7fzP/BQN1RPkttaIdUXG6+yLjM/VDAT+5x+Co=\""
+          "Value": "\"F087i0EzxE2gN8ZFegtbOCWe6zR5sGPIn/stON18CuE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 00:15:10 GMT"
+          "Value": "Thu, 01 May 2025 02:15:07 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4235,18 +4235,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk=\""
+          "Value": "W/\"81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "j4157j7nkv"
+        },
+        {
+          "Name": "label",
+          "Value": "js/islandScript.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk="
+          "Value": "sha256-81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM="
         }
       ]
     },
     {
-      "Route": "js/islandScript.js",
+      "Route": "js/islandScript.j4157j7nkv.js",
       "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\js\\islandScript.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4256,7 +4264,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7274"
+          "Value": "5917"
         },
         {
           "Name": "Content-Type",
@@ -4264,121 +4272,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk=\""
+          "Value": "\"81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 00:15:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk="
-        }
-      ]
-    },
-    {
-      "Route": "js/islandScript.js.gz",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-x85cq5b6nz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2234"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"25LCQL7fzP/BQN1RPkttaIdUXG6+yLjM/VDAT+5x+Co=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 00:15:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-25LCQL7fzP/BQN1RPkttaIdUXG6+yLjM/VDAT+5x+Co="
-        }
-      ]
-    },
-    {
-      "Route": "js/islandScript.x85cq5b6nz.js",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-x85cq5b6nz.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000447427293"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2234"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"25LCQL7fzP/BQN1RPkttaIdUXG6+yLjM/VDAT+5x+Co=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 00:15:10 GMT"
+          "Value": "Thu, 01 May 2025 02:15:07 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x85cq5b6nz"
+          "Value": "j4157j7nkv"
         },
         {
           "Name": "label",
@@ -4386,13 +4294,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk="
+          "Value": "sha256-81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM="
         }
       ]
     },
     {
-      "Route": "js/islandScript.x85cq5b6nz.js",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\js\\islandScript.js",
+      "Route": "js/islandScript.j4157j7nkv.js.gz",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-j4157j7nkv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4401,7 +4309,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7274"
+          "Value": "1738"
         },
         {
           "Name": "Content-Type",
@@ -4409,56 +4317,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk=\""
+          "Value": "\"F087i0EzxE2gN8ZFegtbOCWe6zR5sGPIn/stON18CuE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 00:15:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x85cq5b6nz"
-        },
-        {
-          "Name": "label",
-          "Value": "js/islandScript.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kWN2NrlwtxE4yr25tzt4666DjeLwC/RRlKKqS4qIRmk="
-        }
-      ]
-    },
-    {
-      "Route": "js/islandScript.x85cq5b6nz.js.gz",
-      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-x85cq5b6nz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2234"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"25LCQL7fzP/BQN1RPkttaIdUXG6+yLjM/VDAT+5x+Co=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 00:15:10 GMT"
+          "Value": "Thu, 01 May 2025 02:15:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4476,7 +4339,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x85cq5b6nz"
+          "Value": "j4157j7nkv"
         },
         {
           "Name": "label",
@@ -4484,7 +4347,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-25LCQL7fzP/BQN1RPkttaIdUXG6+yLjM/VDAT+5x+Co="
+          "Value": "sha256-F087i0EzxE2gN8ZFegtbOCWe6zR5sGPIn/stON18CuE="
+        }
+      ]
+    },
+    {
+      "Route": "js/islandScript.js",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-j4157j7nkv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000575043128"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F087i0EzxE2gN8ZFegtbOCWe6zR5sGPIn/stON18CuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 02:15:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM="
+        }
+      ]
+    },
+    {
+      "Route": "js/islandScript.js",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\wwwroot\\js\\islandScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 02:15:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-81dihpqeQJpPk0/iud6MQnuDGwYyUmhk2mbgg0pQCtM="
+        }
+      ]
+    },
+    {
+      "Route": "js/islandScript.js.gz",
+      "AssetFile": "C:\\Users\\Ivan_B\\Documents\\Coding\\C#\\Visual.myProject\\obj\\Debug\\net9.0\\compressed\\yt53roghcp-j4157j7nkv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F087i0EzxE2gN8ZFegtbOCWe6zR5sGPIn/stON18CuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 02:15:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F087i0EzxE2gN8ZFegtbOCWe6zR5sGPIn/stON18CuE="
         }
       ]
     },

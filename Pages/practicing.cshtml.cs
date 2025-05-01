@@ -3,13 +3,15 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Visual.myProject.Pages;
 
-public class PracticingModel(ILogger<PracticingModel> logger) : PageModel
+public class PracticingModel : PageModel
 {
-    private readonly ILogger<PracticingModel> _logger = logger;
+    private readonly ILogger<PracticingModel> _logger;
+
+    public PracticingModel(ILogger<PracticingModel> logger) { _logger = logger; }
 
     public void OnGet()
     {
-
+        ViewData["from_backend"] = "just an ordinary string";
     }
 
     [BindProperty]
