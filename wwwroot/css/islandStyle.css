@@ -1,0 +1,76 @@
+.navbar {
+    background-color: bisque !important;
+    font-family: 'Merriweather', Verdana, sans-serif;
+}
+
+body {
+    color: bisque;
+    background: linear-gradient(30deg, black, rgb(29, 59, 59), #2f4f4f, rgb(59, 98, 98));
+    font-family: 'Ubuntu', Verdana, sans-serif;
+}
+
+.footer {
+    color: bisque !important;
+    font-family: 'Merriweather', Verdana, sans-serif;
+}
+
+.input-styling, .button-styling {
+    border: none;
+    background-color: bisque;
+    border-style: groove;
+    border-radius: 12px;
+    color: black;
+    font-family: 'Lora', Verdana, sans-serif;
+}
+
+.button-styling:hover {
+    animation: buttons 1s ease-in 200ms;
+    animation-fill-mode: forwards;
+}
+
+@keyframes buttons {
+    0% {background-color: bisque; color: black;}
+    100% {background-color: chocolate; color: bisque;}
+}
+
+.dynamic-grid {
+    display: grid;
+}
+
+.grid-styling {
+    width: 60px;
+    height: 60px;
+    background-color: bisque;
+    color: black;
+    font: 14px 'Lora', Verdana, sans-serif;
+    border-style: groove;
+    border-radius: 16px;
+
+    text-align: center;
+    vertical-align: baseline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-styling.animated-a {
+    animation: example 2s ease-in-out reverse;
+}
+
+.grid-styling.animated-b {
+    animation: myframes 2s ease-in-out 200ms 2 alternate;
+}
+
+.fish-icon {
+    animation: example 4s linear 0s infinite normal;
+}
+
+@keyframes example {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+
+@keyframes myframes {
+    from {background-position: 100% 100%;}
+    to {background-position: 0% 20%;}
+}

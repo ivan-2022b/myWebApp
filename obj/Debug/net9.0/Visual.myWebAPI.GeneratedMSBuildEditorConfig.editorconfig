@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Visual.myWebAPI
+build_property.RootNamespace = Visual.myWebAPI
+build_property.ProjectDir = C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/islands.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaXNsYW5kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/practicing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJhY3RpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ivan_B/Documents/Coding/C\#/Visual.myWebAPI/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-siqhsd0u0b
