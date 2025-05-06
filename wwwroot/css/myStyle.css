@@ -129,3 +129,21 @@ div.absolute {
     height: 30px;
     border: 3px solid orangered;
 }
+
+.neon-text {
+    color: #fff;
+    text-shadow:
+        0 0 5px #0ff,
+        0 0 10px #0ff,
+        0 0 20px #0ff,
+        0 0 40px #0ff,
+        0 0 80px #0ff;
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+}
+
+.stroked-text {
+    color: transparent;
+    -webkit-text-stroke: 1px black;
+}

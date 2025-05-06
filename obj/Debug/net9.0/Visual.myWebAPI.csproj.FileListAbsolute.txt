@@ -290,7 +290,6 @@ C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\Visual.myWe
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\scopedcss\projectbundle\Visual.myWebAPI.bundle.scp.css
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\c321e0jyt7-61n19gt1b8.gz
-C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\7fml95d22g-xtxxf3hu2r.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\gj24ehxb75-bqjiyaj88i.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\ilpdoujjwh-c2jlpeoesf.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\wvx4pinoza-erw9l3u2r3.gz
@@ -353,8 +352,10 @@ C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\cg587chfot-qt0fmp857k.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\1m09y4tqan-qt0fmp857k.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\zy3qzxxlxy-e3uj46f61y.gz
-C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\wc2q6jddw8-ztomate1mc.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\gmw3b1qf51-j4157j7nkv.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\60gqqjat1j-gnho9p12ap.gz
-C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\wwowhygjt1-t4y7v3oeof.gz
 C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\e862r6zxbb-cgqs0y1mji.gz
+C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\Visual.myWebAPI.sourcelink.json
+C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\wc2q6jddw8-39qiuuczet.gz
+C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\7fml95d22g-awyzl9etfe.gz
+C:\Users\Ivan_B\Documents\Coding\C#\Visual.myWebAPI\obj\Debug\net9.0\compressed\wwowhygjt1-m5h8jzokjf.gz

@@ -19,8 +19,15 @@ if (app.Environment.IsDevelopment()) // Configure the HTTP request pipeline.
     {
         options.DocumentPath = "/openapi/v1.json";
     });
-} else {
+}
+else
+{
     app.UseExceptionHandler("/Error");
+    app.MapOpenApi();
+    app.UseSwaggerUi(options =>
+    {
+        options.DocumentPath = "/openapi/v1.json";
+    });
 }
 
 app.UseHttpsRedirection();
